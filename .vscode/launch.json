@@ -8,7 +8,7 @@
             "name": "Python: 現在のプログラム",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/main.py",
+            "program": "${workspaceFolder}/get-sp.py",
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
